@@ -6,3 +6,6 @@
     |  _/
    -| | \
     |_|-    mga
+
+    have new changes thorugh git bash
+    
